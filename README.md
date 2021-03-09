@@ -325,13 +325,4 @@ Imagine you had unlimitted time, budget, memory and compute power. What would yo
 
 Don't trust a bug report until you've seen the problem with your own eyes.
 
-## Bonus feature for working with Microsoft technologies
-
-Have you rebooted the server?
-
-Have you tried IISRESET?
-
-Have you remembered to run Visual Studio with elevated privileges?
-
-
 
